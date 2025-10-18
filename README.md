@@ -7,7 +7,7 @@ SALAMOLI or Hello or Hallo or bonjour or olla or いらっしゃいませ or bla
 ---
 
 ### I am a Software Engineer and Editor
-Not only that I also love mathematics with its theories, a serious lover of sports and anime.  It is a pleasure to help people with their problems such as software error, mathematical problems, and computer problems. If you want to contact me, you will find contact sites located at the bottom. Communication is for discussion and not for dating hehe😁
+Not only that I also love mathematics with its serious theories, a lover of sports and anime.  It is a pleasure to help people with their problems such as software error, mathematical problems, and computer problems. If you want to contact me, you will find contact sites located at the bottom. Communication is for discussion and not for dating hehe😁
 <div align="left">
   <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVyYnduZ3hjM3JhN2Jud3hrM2E5ZzRzeDF4eDR6bTBraHJkejNjbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF2" />
   <img align="left" height="190" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJxNG8wamlnem94YWlod3l0dGVsa3c2c2psZDFqb3N2ejA4Y3ZlYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RkX2zcpO79EAf82ESl/giphy.gif" alt="Coding GIF3" />
