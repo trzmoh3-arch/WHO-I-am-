@@ -5,7 +5,7 @@ SALAMOLI or Hello or Hallo or bonjour or olla or いらっしゃいませ or bla
 ---
 
 ### I am a Software Engineer and Editor
-Not only that I also love mathematics with its serious theories, a lover of sports and anime.  It is a pleasure to help people with their problems such as software error, mathematical problems, and computer problems. If you want to contact me, you will find contact sites located at the bottom. Communication is for discussion and not for dating hehe😁
+Not only that I also love mathematics with its serious theories, a lover of sports and anime.  It is a pleasure to help people with their problems such as software error, mathematical problems, and computer problems. I have my goals to become more crazy ,If you want to contact me, you will find contact sites located at the bottom. Communication is for discussion and not for dating hehe😁
 <div align="center">
   
 *“First, solve the problem. Then, write the code.” – John Johnson*
@@ -61,15 +61,6 @@ Not only that I also love mathematics with its serious theories, a lover of spor
 
 ---
 
-### 🎬 Where Code Meets Creativity
-
-I bridge the gap between logical structure and compelling narrative. Whether it's building a robust application or crafting a seamless video story, my goal is the same: to create clean, efficient, and engaging experiences.
-
-- **💻 Software Engineering:** I build full-stack web applications, APIs, and everything in between. I love solving complex problems with elegant code.
-- **✂️ Video Editing:** I transform raw footage into polished stories, paying close attention to pacing, rhythm, and visual flow. It's just another form of problem-solving!
-
----
-
 ### 🎮 Things I want to learn in the future
 
 <div align="center">
@@ -90,7 +81,7 @@ I bridge the gap between logical structure and compelling narrative. Whether it'
 </div>
 If you want anything to ask or discussions, there's my contacts .
 
-- **Telegram:** [@Moh_Trz0503](#)
+- **Telegram:** [@Itad_Moh0307](#)
 - **Instagram:** https://www.instagram.com/moh_____trz/
 - **Email:** trzmoh3@gmail.com
 
